@@ -7,6 +7,11 @@ for file in ${BASE_LOGSEQ_FOLDER}/*; do
     # get the base filename
     base_filename=$(basename "${file}")
 
+    # Skip over the template and contents.md
+    if [ "${base_filename}" = "Recipe Template.md" ] or [ "${base_filename}" = "contents.md"]; then
+        continue
+    fi
+
     # get the cksum of the Logseq file
     logseq_cksum=$(cksum "${file}" | cut -d ' ' -f 1)
 
