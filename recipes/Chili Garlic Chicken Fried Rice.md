@@ -1,0 +1,52 @@
+- | Prep | Active | Resting Time | Total | Serves | Makes |
+  | --- | --- | --- | --- | --- | --- |
+  | X mins | Y mins | X min | X+Y+Z mins | 10 servings | ?? |
+- ## Chicken
+	- ### Ingredients
+		- 48 oz chicken thighs, sliced in half
+		- 4 tablespoons chili garlic sauce
+		- 2 tablespoons soy sauce
+		- 3 tablespoons honey (60g)
+		- 1 tablespoon rice vinegar
+		- 1 tablespoon minced ginger
+		- Salt & pepper to taste
+	- ### Directions
+		- Add ingredients for chicken to slow cooker and cook on high 2-3 hours (or low 3-4 hours)
+- ## Fried Rice
+	- ### Ingredients
+		- 1400g day-old cooked rice (600g dry/uncooked)
+		- 4 tablespoons soy sauce
+		- 2 tablespoons fish sauce
+		- 3 tablespoons honey
+		- 2 tablespoons rice vinegar
+		- 2 tablespoons toasted sesame oil
+		- 600g mixed frozen veggies of choice
+		- 400g egg whites
+		- 6 eggs
+		- 2 tablespoons toasted sesame oil
+		- Chopped green onions
+	- ### Directions
+		- Pre-heat oven to 475.
+		- Combine soy sauce, fish sauce, honey, rice vinegar, and 2 tablesoopns sesame oil in a bowl. Add the rice to a sheet pan and drizzle the sauce over it. Mix well and spread evenly over the sheet pan.
+		- Switch the oven to broil right before adding in sheet pan with rice. Depending on moisture content of your rice and oven model - cook time will significantly vary. It should be somewhere in the range of 10-25 minutes (mine was 10, but just check every 5 mins or so). There should be crispy bits on the exterior and slight browning across the rice.
+		- Scrape edges and mix rice, then add frozen veggies over the top. Add back to oven under broil for 10-15 minutes. Add rice + veggies to slow cooked chicken.
+		- To the same sheet pan, add egg + egg white mixture. Bake for 3-4 minutes or until mostly cooked through, then chop in to small pieces and add to your fried rice + chicken. Add additional sesame oil + green onions, and mix
+- ## Spicy Mayo
+	- ### Ingredients
+		- 150g nonfat skyr or greek yogurt
+		- 50g light Mayo
+		- 2 tablespoons gochujang
+		- 2 tablespoons sriracha
+		- Splash of rice vinegar
+		- Salt & pepper to taste
+		- Add water until desired consistency
+	- ### Directions
+		- Combine all ingredients
+- ## Special Equipment
+	- slow cooker
+- ## Notes
+	- I made 600g of dry rice and that was way too much. I ended up with 964g (minus the weight of an empty container) of cooked rice extra. Need to weight the empty container and calculate how much dry rice would make 1400g of cooked rice
+	- I attempted to substitute whole eggs for the egg whites. I measured out 400g of whole eggs (~7) and decided that was too much and went with a total of 10 eggs, which seemed good.
+	- I used Birds Eye Steamfresh Asian Vegetable Medley Frozen Vegetables, but I wasn't really happy with the baby corn in it. I think next time I'll just buy separate frozen veggies (broccoli, corn, peas & carrots) and use that.
+- ## Make-Ahead and Storage
+	- Store frozen (will last at least 3 months frozen). To reheat, remove lid and cover with a paper towel. Microwave 4-5 minutes, mix, then microwave another ~1 minute to finish
