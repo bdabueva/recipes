@@ -1,3 +1,7 @@
+---
+title: Spicy Ketchup
+layout: default
+---
 - | Prep | Active | Resting Time | Total | Serves | Makes |
   | --- | --- | --- | --- | --- | --- |
   | X mins | Y mins | X min | X+Y+Z mins | ? servings | 1 gallon |
